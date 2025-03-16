@@ -1,4 +1,4 @@
-# ThermoPulse: Heart Rate Estimation from Thermal Videos
+# ThermalHR: Heart Rate Estimation from Thermal Videos
 
 This repository contains code for estimating heart rate from thermal camera recordings. The process consists of the following steps:
 
